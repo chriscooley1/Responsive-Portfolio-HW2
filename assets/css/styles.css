@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #d1d1ca;
+}
+
+h1 {
+    padding-top: 20px;
+    font-size: 40px;
+    color: rgb(17, 184, 156);
+}
+
+h2 {
+    margin-bottom: 0;
+    font-size: 35px;
+    color: white;
+    background-color: rgb(17, 184, 156);
+}
+
+p {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    float: left;
+}
+
+.container {
+    padding: 50px;
+    margin-left: -20px;
+    float: left;
+}
+
+.btn {
+    margin: 20px;
+    background-color: rgb(17, 184, 156);
+}
+
+.img {
+    padding: 15px;
+    border: none;
+    float: left;
+}
+
+.img-thumbnail {
+    border: none;
+    float: left;
+}
